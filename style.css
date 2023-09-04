@@ -12,3 +12,6 @@ body {
     justify-content: center;
     align-items: center;
 }
+.container {
+    background-color: #121212;
+}
